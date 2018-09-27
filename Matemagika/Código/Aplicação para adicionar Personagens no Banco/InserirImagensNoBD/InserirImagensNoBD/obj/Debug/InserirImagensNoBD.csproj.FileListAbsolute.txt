@@ -1,0 +1,9 @@
+Z:\KINGSMAN\PPII\InserirImagensNoBD\InserirImagensNoBD\obj\Debug\InserirImagensNoBD.Form1.resources
+Z:\KINGSMAN\PPII\InserirImagensNoBD\InserirImagensNoBD\obj\Debug\InserirImagensNoBD.Properties.Resources.resources
+Z:\KINGSMAN\PPII\InserirImagensNoBD\InserirImagensNoBD\obj\Debug\InserirImagensNoBD.csproj.GenerateResource.Cache
+Z:\KINGSMAN\PPII\InserirImagensNoBD\InserirImagensNoBD\obj\Debug\InserirImagensNoBD.csproj.CoreCompileInputs.cache
+Z:\KINGSMAN\PPII\InserirImagensNoBD\InserirImagensNoBD\bin\Debug\InserirImagensNoBD.exe.config
+Z:\KINGSMAN\PPII\InserirImagensNoBD\InserirImagensNoBD\bin\Debug\InserirImagensNoBD.exe
+Z:\KINGSMAN\PPII\InserirImagensNoBD\InserirImagensNoBD\bin\Debug\InserirImagensNoBD.pdb
+Z:\KINGSMAN\PPII\InserirImagensNoBD\InserirImagensNoBD\obj\Debug\InserirImagensNoBD.exe
+Z:\KINGSMAN\PPII\InserirImagensNoBD\InserirImagensNoBD\obj\Debug\InserirImagensNoBD.pdb

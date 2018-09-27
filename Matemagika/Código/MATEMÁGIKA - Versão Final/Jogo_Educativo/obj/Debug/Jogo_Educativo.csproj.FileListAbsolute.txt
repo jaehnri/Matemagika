@@ -1,0 +1,391 @@
+E:\COTUCA\Tecnico\PPII\Jogo_Educativo\Jogo_Educativo\obj\Debug\Jogo_Educativo.csprojResolveAssemblyReference.cache
+E:\COTUCA\Tecnico\PPII\Jogo_Educativo\Jogo_Educativo\obj\Debug\Jogo_Educativo.Principal.resources
+E:\COTUCA\Tecnico\PPII\Jogo_Educativo\Jogo_Educativo\obj\Debug\Jogo_Educativo.Properties.Resources.resources
+E:\COTUCA\Tecnico\PPII\Jogo_Educativo\Jogo_Educativo\obj\Debug\Jogo_Educativo.csproj.GenerateResource.Cache
+E:\COTUCA\Tecnico\PPII\Jogo_Educativo\Jogo_Educativo\obj\Debug\Jogo_Educativo.csproj.CoreCompileInputs.cache
+E:\COTUCA\Tecnico\PPII\Jogo_Educativo\Jogo_Educativo\bin\Debug\Jogo_Educativo.exe.config
+E:\COTUCA\Tecnico\PPII\Jogo_Educativo\Jogo_Educativo\bin\Debug\Jogo_Educativo.exe
+E:\COTUCA\Tecnico\PPII\Jogo_Educativo\Jogo_Educativo\bin\Debug\Jogo_Educativo.pdb
+E:\COTUCA\Tecnico\PPII\Jogo_Educativo\Jogo_Educativo\obj\Debug\Jogo_Educativo.exe
+E:\COTUCA\Tecnico\PPII\Jogo_Educativo\Jogo_Educativo\obj\Debug\Jogo_Educativo.pdb
+F:\COTUCA\Tecnico\PPII\Jogo_Educativo\Jogo_Educativo\obj\Debug\Jogo_Educativo.csprojResolveAssemblyReference.cache
+F:\COTUCA\Tecnico\PPII\Jogo_Educativo\Jogo_Educativo\obj\Debug\Jogo_Educativo.Principal.resources
+F:\COTUCA\Tecnico\PPII\Jogo_Educativo\Jogo_Educativo\obj\Debug\Jogo_Educativo.Properties.Resources.resources
+F:\COTUCA\Tecnico\PPII\Jogo_Educativo\Jogo_Educativo\obj\Debug\Jogo_Educativo.csproj.GenerateResource.Cache
+F:\COTUCA\Tecnico\PPII\Jogo_Educativo\Jogo_Educativo\obj\Debug\Jogo_Educativo.csproj.CoreCompileInputs.cache
+F:\COTUCA\Tecnico\PPII\Jogo_Educativo\Jogo_Educativo\obj\Debug\Jogo_Educativo.exe
+F:\COTUCA\Tecnico\PPII\Jogo_Educativo\Jogo_Educativo\obj\Debug\Jogo_Educativo.pdb
+F:\COTUCA\Tecnico\PPII\Jogo_Educativo\Jogo_Educativo\bin\Debug\Jogo_Educativo.exe.config
+F:\COTUCA\Tecnico\PPII\Jogo_Educativo\Jogo_Educativo\bin\Debug\Jogo_Educativo.exe
+F:\COTUCA\Tecnico\PPII\Jogo_Educativo\Jogo_Educativo\bin\Debug\Jogo_Educativo.pdb
+D:\COTUCA\Tecnico\PPII\Jogo_Educativo\Jogo_Educativo\bin\Debug\Jogo_Educativo.exe.config
+D:\COTUCA\Tecnico\PPII\Jogo_Educativo\Jogo_Educativo\bin\Debug\Jogo_Educativo.exe
+D:\COTUCA\Tecnico\PPII\Jogo_Educativo\Jogo_Educativo\bin\Debug\Jogo_Educativo.pdb
+D:\COTUCA\Tecnico\PPII\Jogo_Educativo\Jogo_Educativo\obj\Debug\Jogo_Educativo.csprojResolveAssemblyReference.cache
+D:\COTUCA\Tecnico\PPII\Jogo_Educativo\Jogo_Educativo\obj\Debug\Jogo_Educativo.Principal.resources
+D:\COTUCA\Tecnico\PPII\Jogo_Educativo\Jogo_Educativo\obj\Debug\Jogo_Educativo.Properties.Resources.resources
+D:\COTUCA\Tecnico\PPII\Jogo_Educativo\Jogo_Educativo\obj\Debug\Jogo_Educativo.csproj.GenerateResource.Cache
+D:\COTUCA\Tecnico\PPII\Jogo_Educativo\Jogo_Educativo\obj\Debug\Jogo_Educativo.csproj.CoreCompileInputs.cache
+D:\COTUCA\Tecnico\PPII\Jogo_Educativo\Jogo_Educativo\obj\Debug\Jogo_Educativo.exe
+D:\COTUCA\Tecnico\PPII\Jogo_Educativo\Jogo_Educativo\obj\Debug\Jogo_Educativo.pdb
+E:\COTUCA\Tecnico\PPII\Jogo_Educativo\Jogo_Educativo\obj\Debug\Jogo_Educativo.Splash.resources
+F:\COTUCA\Tecnico\PPII\Jogo_Educativo_TESTE NOVO\Jogo_Educativo\obj\Debug\Jogo_Educativo.csprojResolveAssemblyReference.cache
+F:\COTUCA\Tecnico\PPII\Jogo_Educativo_TESTE NOVO\Jogo_Educativo\obj\Debug\Jogo_Educativo.Principal.resources
+F:\COTUCA\Tecnico\PPII\Jogo_Educativo_TESTE NOVO\Jogo_Educativo\obj\Debug\Jogo_Educativo.Properties.Resources.resources
+F:\COTUCA\Tecnico\PPII\Jogo_Educativo_TESTE NOVO\Jogo_Educativo\obj\Debug\Jogo_Educativo.Splash.resources
+F:\COTUCA\Tecnico\PPII\Jogo_Educativo_TESTE NOVO\Jogo_Educativo\obj\Debug\Jogo_Educativo.csproj.GenerateResource.Cache
+F:\COTUCA\Tecnico\PPII\Jogo_Educativo_TESTE NOVO\Jogo_Educativo\obj\Debug\Jogo_Educativo.csproj.CoreCompileInputs.cache
+F:\COTUCA\Tecnico\PPII\Jogo_Educativo_TESTE NOVO\Jogo_Educativo\obj\Debug\Jogo_Educativo.exe
+F:\COTUCA\Tecnico\PPII\Jogo_Educativo_TESTE NOVO\Jogo_Educativo\obj\Debug\Jogo_Educativo.pdb
+F:\COTUCA\Tecnico\PPII\Jogo_Educativo_TESTE NOVO\Jogo_Educativo\bin\Debug\Jogo_Educativo.exe.config
+F:\COTUCA\Tecnico\PPII\Jogo_Educativo_TESTE NOVO\Jogo_Educativo\bin\Debug\Jogo_Educativo.exe
+F:\COTUCA\Tecnico\PPII\Jogo_Educativo_TESTE NOVO\Jogo_Educativo\bin\Debug\Jogo_Educativo.pdb
+E:\COTUCA\Tecnico\PPII\Jogo_Educativo_TESTE NOVO\Jogo_Educativo\bin\Debug\Jogo_Educativo.exe.config
+E:\COTUCA\Tecnico\PPII\Jogo_Educativo_TESTE NOVO\Jogo_Educativo\bin\Debug\Jogo_Educativo.exe
+E:\COTUCA\Tecnico\PPII\Jogo_Educativo_TESTE NOVO\Jogo_Educativo\bin\Debug\Jogo_Educativo.pdb
+E:\COTUCA\Tecnico\PPII\Jogo_Educativo_TESTE NOVO\Jogo_Educativo\obj\Debug\Jogo_Educativo.csprojResolveAssemblyReference.cache
+E:\COTUCA\Tecnico\PPII\Jogo_Educativo_TESTE NOVO\Jogo_Educativo\obj\Debug\Jogo_Educativo.Principal.resources
+E:\COTUCA\Tecnico\PPII\Jogo_Educativo_TESTE NOVO\Jogo_Educativo\obj\Debug\Jogo_Educativo.Properties.Resources.resources
+E:\COTUCA\Tecnico\PPII\Jogo_Educativo_TESTE NOVO\Jogo_Educativo\obj\Debug\Jogo_Educativo.Splash.resources
+E:\COTUCA\Tecnico\PPII\Jogo_Educativo_TESTE NOVO\Jogo_Educativo\obj\Debug\Jogo_Educativo.csproj.GenerateResource.Cache
+E:\COTUCA\Tecnico\PPII\Jogo_Educativo_TESTE NOVO\Jogo_Educativo\obj\Debug\Jogo_Educativo.csproj.CoreCompileInputs.cache
+E:\COTUCA\Tecnico\PPII\Jogo_Educativo_TESTE NOVO\Jogo_Educativo\obj\Debug\Jogo_Educativo.exe
+E:\COTUCA\Tecnico\PPII\Jogo_Educativo_TESTE NOVO\Jogo_Educativo\obj\Debug\Jogo_Educativo.pdb
+D:\COTUCA\Tecnico\PPII\Jogo_Educativo_TESTE NOVO\Jogo_Educativo\bin\Debug\Jogo_Educativo.exe.config
+D:\COTUCA\Tecnico\PPII\Jogo_Educativo_TESTE NOVO\Jogo_Educativo\bin\Debug\Jogo_Educativo.exe
+D:\COTUCA\Tecnico\PPII\Jogo_Educativo_TESTE NOVO\Jogo_Educativo\bin\Debug\Jogo_Educativo.pdb
+D:\COTUCA\Tecnico\PPII\Jogo_Educativo_TESTE NOVO\Jogo_Educativo\obj\Debug\Jogo_Educativo.csprojResolveAssemblyReference.cache
+D:\COTUCA\Tecnico\PPII\Jogo_Educativo_TESTE NOVO\Jogo_Educativo\obj\Debug\Jogo_Educativo.Principal.resources
+D:\COTUCA\Tecnico\PPII\Jogo_Educativo_TESTE NOVO\Jogo_Educativo\obj\Debug\Jogo_Educativo.Properties.Resources.resources
+D:\COTUCA\Tecnico\PPII\Jogo_Educativo_TESTE NOVO\Jogo_Educativo\obj\Debug\Jogo_Educativo.Splash.resources
+D:\COTUCA\Tecnico\PPII\Jogo_Educativo_TESTE NOVO\Jogo_Educativo\obj\Debug\Jogo_Educativo.csproj.GenerateResource.Cache
+D:\COTUCA\Tecnico\PPII\Jogo_Educativo_TESTE NOVO\Jogo_Educativo\obj\Debug\Jogo_Educativo.csproj.CoreCompileInputs.cache
+D:\COTUCA\Tecnico\PPII\Jogo_Educativo_TESTE NOVO\Jogo_Educativo\obj\Debug\Jogo_Educativo.exe
+D:\COTUCA\Tecnico\PPII\Jogo_Educativo_TESTE NOVO\Jogo_Educativo\obj\Debug\Jogo_Educativo.pdb
+Z:\Jogo_Educativo_TESTE NOVO\Jogo_Educativo\bin\Debug\Jogo_Educativo.exe.config
+Z:\Jogo_Educativo_TESTE NOVO\Jogo_Educativo\bin\Debug\Jogo_Educativo.exe
+Z:\Jogo_Educativo_TESTE NOVO\Jogo_Educativo\bin\Debug\Jogo_Educativo.pdb
+Z:\Jogo_Educativo_TESTE NOVO\Jogo_Educativo\obj\Debug\Jogo_Educativo.csprojResolveAssemblyReference.cache
+Z:\Jogo_Educativo_TESTE NOVO\Jogo_Educativo\obj\Debug\Jogo_Educativo.Principal.resources
+Z:\Jogo_Educativo_TESTE NOVO\Jogo_Educativo\obj\Debug\Jogo_Educativo.Properties.Resources.resources
+Z:\Jogo_Educativo_TESTE NOVO\Jogo_Educativo\obj\Debug\Jogo_Educativo.Splash.resources
+Z:\Jogo_Educativo_TESTE NOVO\Jogo_Educativo\obj\Debug\Jogo_Educativo.csproj.GenerateResource.Cache
+Z:\Jogo_Educativo_TESTE NOVO\Jogo_Educativo\obj\Debug\Jogo_Educativo.csproj.CoreCompileInputs.cache
+Z:\Jogo_Educativo_TESTE NOVO\Jogo_Educativo\obj\Debug\Jogo_Educativo.exe
+Z:\Jogo_Educativo_TESTE NOVO\Jogo_Educativo\obj\Debug\Jogo_Educativo.pdb
+Z:\Jogo_Educativo\Jogo_Educativo\bin\Debug\Jogo_Educativo.exe.config
+Z:\Jogo_Educativo\Jogo_Educativo\bin\Debug\Jogo_Educativo.exe
+Z:\Jogo_Educativo\Jogo_Educativo\bin\Debug\Jogo_Educativo.pdb
+Z:\Jogo_Educativo\Jogo_Educativo\obj\Debug\Jogo_Educativo.csprojResolveAssemblyReference.cache
+Z:\Jogo_Educativo\Jogo_Educativo\obj\Debug\Jogo_Educativo.Principal.resources
+Z:\Jogo_Educativo\Jogo_Educativo\obj\Debug\Jogo_Educativo.Properties.Resources.resources
+Z:\Jogo_Educativo\Jogo_Educativo\obj\Debug\Jogo_Educativo.Splash.resources
+Z:\Jogo_Educativo\Jogo_Educativo\obj\Debug\Jogo_Educativo.csproj.GenerateResource.Cache
+Z:\Jogo_Educativo\Jogo_Educativo\obj\Debug\Jogo_Educativo.csproj.CoreCompileInputs.cache
+Z:\Jogo_Educativo\Jogo_Educativo\obj\Debug\Jogo_Educativo.exe
+Z:\Jogo_Educativo\Jogo_Educativo\obj\Debug\Jogo_Educativo.pdb
+Z:\KINGSMAN\PPI\Jogo_Educativo\Jogo_Educativo\bin\Debug\Jogo_Educativo.exe.config
+Z:\KINGSMAN\PPI\Jogo_Educativo\Jogo_Educativo\bin\Debug\Jogo_Educativo.exe
+Z:\KINGSMAN\PPI\Jogo_Educativo\Jogo_Educativo\bin\Debug\Jogo_Educativo.pdb
+Z:\KINGSMAN\PPI\Jogo_Educativo\Jogo_Educativo\obj\Debug\Jogo_Educativo.csprojResolveAssemblyReference.cache
+Z:\KINGSMAN\PPI\Jogo_Educativo\Jogo_Educativo\obj\Debug\Jogo_Educativo.Principal.resources
+Z:\KINGSMAN\PPI\Jogo_Educativo\Jogo_Educativo\obj\Debug\Jogo_Educativo.Properties.Resources.resources
+Z:\KINGSMAN\PPI\Jogo_Educativo\Jogo_Educativo\obj\Debug\Jogo_Educativo.Splash.resources
+Z:\KINGSMAN\PPI\Jogo_Educativo\Jogo_Educativo\obj\Debug\Jogo_Educativo.csproj.GenerateResource.Cache
+Z:\KINGSMAN\PPI\Jogo_Educativo\Jogo_Educativo\obj\Debug\Jogo_Educativo.csproj.CoreCompileInputs.cache
+Z:\KINGSMAN\PPI\Jogo_Educativo\Jogo_Educativo\obj\Debug\Jogo_Educativo.exe
+Z:\KINGSMAN\PPI\Jogo_Educativo\Jogo_Educativo\obj\Debug\Jogo_Educativo.pdb
+Z:\KINGSMAN\PPII\Jogo_Educativo\Jogo_Educativo\obj\Debug\Jogo_Educativo.csprojResolveAssemblyReference.cache
+Z:\KINGSMAN\PPII\Jogo_Educativo\Jogo_Educativo\obj\Debug\Jogo_Educativo.Principal.resources
+Z:\KINGSMAN\PPII\Jogo_Educativo\Jogo_Educativo\obj\Debug\Jogo_Educativo.Splash.resources
+Z:\KINGSMAN\PPII\Jogo_Educativo\Jogo_Educativo\obj\Debug\Jogo_Educativo.csproj.GenerateResource.Cache
+Z:\KINGSMAN\PPII\Jogo_Educativo\Jogo_Educativo\obj\Debug\Jogo_Educativo.exe
+Z:\KINGSMAN\PPII\Jogo_Educativo\Jogo_Educativo\obj\Debug\Jogo_Educativo.pdb
+Z:\KINGSMAN\PPII\Jogo_Educativo\Jogo_Educativo\bin\Debug\Jogo_Educativo.exe.config
+Z:\KINGSMAN\PPII\Jogo_Educativo\Jogo_Educativo\bin\Debug\Jogo_Educativo.exe
+Z:\KINGSMAN\PPII\Jogo_Educativo\Jogo_Educativo\bin\Debug\Jogo_Educativo.pdb
+Z:\KINGSMAN\PPII\Jogo_Educativo\Jogo_Educativo\obj\Debug\Jogo_Educativo.Properties.Resources.resources
+Z:\KINGSMAN\PPII\Jogo_Educativo\Jogo_Educativo\obj\Debug\Jogo_Educativo.csproj.CoreCompileInputs.cache
+Z:\KINGSMAN\PPII\TESTE\Jogo_Educativo\bin\Debug\Jogo_Educativo.exe.config
+Z:\KINGSMAN\PPII\TESTE\Jogo_Educativo\bin\Debug\Jogo_Educativo.exe
+Z:\KINGSMAN\PPII\TESTE\Jogo_Educativo\bin\Debug\Jogo_Educativo.pdb
+Z:\KINGSMAN\PPII\TESTE\Jogo_Educativo\obj\Debug\Jogo_Educativo.csprojResolveAssemblyReference.cache
+Z:\KINGSMAN\PPII\TESTE\Jogo_Educativo\obj\Debug\Jogo_Educativo.Principal.resources
+Z:\KINGSMAN\PPII\TESTE\Jogo_Educativo\obj\Debug\Jogo_Educativo.Properties.Resources.resources
+Z:\KINGSMAN\PPII\TESTE\Jogo_Educativo\obj\Debug\Jogo_Educativo.Splash.resources
+Z:\KINGSMAN\PPII\TESTE\Jogo_Educativo\obj\Debug\Jogo_Educativo.csproj.GenerateResource.Cache
+Z:\KINGSMAN\PPII\TESTE\Jogo_Educativo\obj\Debug\Jogo_Educativo.csproj.CoreCompileInputs.cache
+Z:\KINGSMAN\PPII\TESTE\Jogo_Educativo\obj\Debug\Jogo_Educativo.exe
+Z:\KINGSMAN\PPII\TESTE\Jogo_Educativo\obj\Debug\Jogo_Educativo.pdb
+Z:\KINGSMAN\PPII\Jogo_Educativo - Cópia\Jogo_Educativo\obj\Debug\Jogo_Educativo.csprojResolveAssemblyReference.cache
+Z:\KINGSMAN\PPII\Jogo_Educativo - Cópia\Jogo_Educativo\obj\Debug\Jogo_Educativo.Principal.resources
+Z:\KINGSMAN\PPII\Jogo_Educativo - Cópia\Jogo_Educativo\obj\Debug\Jogo_Educativo.Splash.resources
+Z:\KINGSMAN\PPII\Jogo_Educativo - Cópia\Jogo_Educativo\obj\Debug\Jogo_Educativo.csproj.GenerateResource.Cache
+Z:\KINGSMAN\PPII\Jogo_Educativo - Cópia\Jogo_Educativo\obj\Debug\Jogo_Educativo.exe
+Z:\KINGSMAN\PPII\Jogo_Educativo - Cópia\Jogo_Educativo\obj\Debug\Jogo_Educativo.pdb
+Z:\KINGSMAN\PPII\Jogo_Educativo - Cópia\Jogo_Educativo\obj\Debug\Jogo_Educativo.Properties.Resources.resources
+Z:\KINGSMAN\PPII\Jogo_Educativo - Cópia\Jogo_Educativo\obj\Debug\Jogo_Educativo.csproj.CoreCompileInputs.cache
+Z:\KINGSMAN\PPII\Jogo_Educativo - Cópia\Jogo_Educativo\bin\Debug\Jogo_Educativo.exe.config
+Z:\KINGSMAN\PPII\Jogo_Educativo - Cópia\Jogo_Educativo\bin\Debug\Jogo_Educativo.exe
+Z:\KINGSMAN\PPII\Jogo_Educativo - Cópia\Jogo_Educativo\bin\Debug\Jogo_Educativo.pdb
+Z:\Matemágika_NOVO_NOVO\Jogo_Educativo\obj\Debug\Jogo_Educativo.csprojResolveAssemblyReference.cache
+Z:\Matemágika_NOVO_NOVO\Jogo_Educativo\obj\Debug\Jogo_Educativo.Principal.resources
+Z:\Matemágika_NOVO_NOVO\Jogo_Educativo\obj\Debug\Jogo_Educativo.Properties.Resources.resources
+Z:\Matemágika_NOVO_NOVO\Jogo_Educativo\obj\Debug\Jogo_Educativo.Splash.resources
+Z:\Matemágika_NOVO_NOVO\Jogo_Educativo\obj\Debug\Jogo_Educativo.csproj.GenerateResource.Cache
+Z:\Matemágika_NOVO_NOVO\Jogo_Educativo\obj\Debug\Jogo_Educativo.csproj.CoreCompileInputs.cache
+Z:\Matemágika_NOVO_NOVO\Jogo_Educativo\obj\Debug\Jogo_Educativo.exe
+Z:\Matemágika_NOVO_NOVO\Jogo_Educativo\obj\Debug\Jogo_Educativo.pdb
+Z:\Matemágika_NOVO_NOVO\Jogo_Educativo\bin\Debug\Jogo_Educativo.exe.config
+Z:\Matemágika_NOVO_NOVO\Jogo_Educativo\bin\Debug\Jogo_Educativo.exe
+Z:\Matemágika_NOVO_NOVO\Jogo_Educativo\bin\Debug\Jogo_Educativo.pdb
+Z:\Matemágika_NOVO_NOVO_NOVO\Jogo_Educativo\bin\Debug\Jogo_Educativo.exe.config
+Z:\Matemágika_NOVO_NOVO_NOVO\Jogo_Educativo\bin\Debug\Jogo_Educativo.exe
+Z:\Matemágika_NOVO_NOVO_NOVO\Jogo_Educativo\bin\Debug\Jogo_Educativo.pdb
+Z:\Matemágika_NOVO_NOVO_NOVO\Jogo_Educativo\obj\Debug\Jogo_Educativo.csprojResolveAssemblyReference.cache
+Z:\Matemágika_NOVO_NOVO_NOVO\Jogo_Educativo\obj\Debug\Jogo_Educativo.Principal.resources
+Z:\Matemágika_NOVO_NOVO_NOVO\Jogo_Educativo\obj\Debug\Jogo_Educativo.Properties.Resources.resources
+Z:\Matemágika_NOVO_NOVO_NOVO\Jogo_Educativo\obj\Debug\Jogo_Educativo.Splash.resources
+Z:\Matemágika_NOVO_NOVO_NOVO\Jogo_Educativo\obj\Debug\Jogo_Educativo.csproj.GenerateResource.Cache
+Z:\Matemágika_NOVO_NOVO_NOVO\Jogo_Educativo\obj\Debug\Jogo_Educativo.csproj.CoreCompileInputs.cache
+Z:\Matemágika_NOVO_NOVO_NOVO\Jogo_Educativo\obj\Debug\Jogo_Educativo.exe
+Z:\Matemágika_NOVO_NOVO_NOVO\Jogo_Educativo\obj\Debug\Jogo_Educativo.pdb
+M:\Matemágika_NOVO_NOVO_NOVO\Jogo_Educativo\bin\Debug\Jogo_Educativo.exe.config
+M:\Matemágika_NOVO_NOVO_NOVO\Jogo_Educativo\bin\Debug\Jogo_Educativo.exe
+M:\Matemágika_NOVO_NOVO_NOVO\Jogo_Educativo\bin\Debug\Jogo_Educativo.pdb
+M:\Matemágika_NOVO_NOVO_NOVO\Jogo_Educativo\obj\Debug\Jogo_Educativo.csprojResolveAssemblyReference.cache
+M:\Matemágika_NOVO_NOVO_NOVO\Jogo_Educativo\obj\Debug\Jogo_Educativo.Principal.resources
+M:\Matemágika_NOVO_NOVO_NOVO\Jogo_Educativo\obj\Debug\Jogo_Educativo.Properties.Resources.resources
+M:\Matemágika_NOVO_NOVO_NOVO\Jogo_Educativo\obj\Debug\Jogo_Educativo.Splash.resources
+M:\Matemágika_NOVO_NOVO_NOVO\Jogo_Educativo\obj\Debug\Jogo_Educativo.csproj.GenerateResource.Cache
+M:\Matemágika_NOVO_NOVO_NOVO\Jogo_Educativo\obj\Debug\Jogo_Educativo.csproj.CoreCompileInputs.cache
+M:\Matemágika_NOVO_NOVO_NOVO\Jogo_Educativo\obj\Debug\Jogo_Educativo.exe
+M:\Matemágika_NOVO_NOVO_NOVO\Jogo_Educativo\obj\Debug\Jogo_Educativo.pdb
+Z:\KINGSMAN\PPII\Matemágika - Cópia\Jogo_Educativo\bin\Debug\Jogo_Educativo.exe.config
+Z:\KINGSMAN\PPII\Matemágika - Cópia\Jogo_Educativo\bin\Debug\Jogo_Educativo.exe
+Z:\KINGSMAN\PPII\Matemágika - Cópia\Jogo_Educativo\bin\Debug\Jogo_Educativo.pdb
+Z:\KINGSMAN\PPII\Matemágika - Cópia\Jogo_Educativo\obj\Debug\Jogo_Educativo.csprojResolveAssemblyReference.cache
+Z:\KINGSMAN\PPII\Matemágika - Cópia\Jogo_Educativo\obj\Debug\Jogo_Educativo.Principal.resources
+Z:\KINGSMAN\PPII\Matemágika - Cópia\Jogo_Educativo\obj\Debug\Jogo_Educativo.Properties.Resources.resources
+Z:\KINGSMAN\PPII\Matemágika - Cópia\Jogo_Educativo\obj\Debug\Jogo_Educativo.Splash.resources
+Z:\KINGSMAN\PPII\Matemágika - Cópia\Jogo_Educativo\obj\Debug\Jogo_Educativo.csproj.GenerateResource.Cache
+Z:\KINGSMAN\PPII\Matemágika - Cópia\Jogo_Educativo\obj\Debug\Jogo_Educativo.csproj.CoreCompileInputs.cache
+Z:\KINGSMAN\PPII\Matemágika - Cópia\Jogo_Educativo\obj\Debug\Jogo_Educativo.exe
+Z:\KINGSMAN\PPII\Matemágika - Cópia\Jogo_Educativo\obj\Debug\Jogo_Educativo.pdb
+Z:\KINGSMAN\PPII\Matemágika - Cópia - Cópia - Cópia\Jogo_Educativo\bin\Debug\Jogo_Educativo.exe.config
+Z:\KINGSMAN\PPII\Matemágika - Cópia - Cópia - Cópia\Jogo_Educativo\bin\Debug\Jogo_Educativo.exe
+Z:\KINGSMAN\PPII\Matemágika - Cópia - Cópia - Cópia\Jogo_Educativo\bin\Debug\Jogo_Educativo.pdb
+Z:\KINGSMAN\PPII\Matemágika - Cópia - Cópia - Cópia\Jogo_Educativo\obj\Debug\Jogo_Educativo.csprojResolveAssemblyReference.cache
+Z:\KINGSMAN\PPII\Matemágika - Cópia - Cópia - Cópia\Jogo_Educativo\obj\Debug\Jogo_Educativo.Principal.resources
+Z:\KINGSMAN\PPII\Matemágika - Cópia - Cópia - Cópia\Jogo_Educativo\obj\Debug\Jogo_Educativo.Properties.Resources.resources
+Z:\KINGSMAN\PPII\Matemágika - Cópia - Cópia - Cópia\Jogo_Educativo\obj\Debug\Jogo_Educativo.Splash.resources
+Z:\KINGSMAN\PPII\Matemágika - Cópia - Cópia - Cópia\Jogo_Educativo\obj\Debug\Jogo_Educativo.csproj.GenerateResource.Cache
+Z:\KINGSMAN\PPII\Matemágika - Cópia - Cópia - Cópia\Jogo_Educativo\obj\Debug\Jogo_Educativo.csproj.CoreCompileInputs.cache
+Z:\KINGSMAN\PPII\Matemágika - Cópia - Cópia - Cópia\Jogo_Educativo\obj\Debug\Jogo_Educativo.exe
+Z:\KINGSMAN\PPII\Matemágika - Cópia - Cópia - Cópia\Jogo_Educativo\obj\Debug\Jogo_Educativo.pdb
+Z:\KINGSMAN\PPII\Matemágika\Jogo_Educativo\bin\Debug\Jogo_Educativo.exe.config
+Z:\KINGSMAN\PPII\Matemágika\Jogo_Educativo\bin\Debug\Jogo_Educativo.exe
+Z:\KINGSMAN\PPII\Matemágika\Jogo_Educativo\bin\Debug\Jogo_Educativo.pdb
+Z:\KINGSMAN\PPII\Matemágika\Jogo_Educativo\obj\Debug\Jogo_Educativo.csprojResolveAssemblyReference.cache
+Z:\KINGSMAN\PPII\Matemágika\Jogo_Educativo\obj\Debug\Jogo_Educativo.Principal.resources
+Z:\KINGSMAN\PPII\Matemágika\Jogo_Educativo\obj\Debug\Jogo_Educativo.Properties.Resources.resources
+Z:\KINGSMAN\PPII\Matemágika\Jogo_Educativo\obj\Debug\Jogo_Educativo.Splash.resources
+Z:\KINGSMAN\PPII\Matemágika\Jogo_Educativo\obj\Debug\Jogo_Educativo.csproj.GenerateResource.Cache
+Z:\KINGSMAN\PPII\Matemágika\Jogo_Educativo\obj\Debug\Jogo_Educativo.csproj.CoreCompileInputs.cache
+Z:\KINGSMAN\PPII\Matemágika\Jogo_Educativo\obj\Debug\Jogo_Educativo.exe
+Z:\KINGSMAN\PPII\Matemágika\Jogo_Educativo\obj\Debug\Jogo_Educativo.pdb
+M:\KINGSMAN\PPII\Matemágika - Cópia\Jogo_Educativo\bin\Debug\Jogo_Educativo.exe.config
+M:\KINGSMAN\PPII\Matemágika - Cópia\Jogo_Educativo\bin\Debug\Jogo_Educativo.exe
+M:\KINGSMAN\PPII\Matemágika - Cópia\Jogo_Educativo\bin\Debug\Jogo_Educativo.pdb
+M:\KINGSMAN\PPII\Matemágika - Cópia\Jogo_Educativo\obj\Debug\Jogo_Educativo.csprojResolveAssemblyReference.cache
+M:\KINGSMAN\PPII\Matemágika - Cópia\Jogo_Educativo\obj\Debug\Jogo_Educativo.Principal.resources
+M:\KINGSMAN\PPII\Matemágika - Cópia\Jogo_Educativo\obj\Debug\Jogo_Educativo.Properties.Resources.resources
+M:\KINGSMAN\PPII\Matemágika - Cópia\Jogo_Educativo\obj\Debug\Jogo_Educativo.Splash.resources
+M:\KINGSMAN\PPII\Matemágika - Cópia\Jogo_Educativo\obj\Debug\Jogo_Educativo.csproj.GenerateResource.Cache
+M:\KINGSMAN\PPII\Matemágika - Cópia\Jogo_Educativo\obj\Debug\Jogo_Educativo.csproj.CoreCompileInputs.cache
+M:\KINGSMAN\PPII\Matemágika - Cópia\Jogo_Educativo\obj\Debug\Jogo_Educativo.exe
+M:\KINGSMAN\PPII\Matemágika - Cópia\Jogo_Educativo\obj\Debug\Jogo_Educativo.pdb
+M:\KINGSMAN\PPII\Matemágika\Jogo_Educativo\bin\Debug\Jogo_Educativo.exe.config
+M:\KINGSMAN\PPII\Matemágika\Jogo_Educativo\bin\Debug\Jogo_Educativo.exe
+M:\KINGSMAN\PPII\Matemágika\Jogo_Educativo\bin\Debug\Jogo_Educativo.pdb
+M:\KINGSMAN\PPII\Matemágika\Jogo_Educativo\obj\Debug\Jogo_Educativo.csprojResolveAssemblyReference.cache
+M:\KINGSMAN\PPII\Matemágika\Jogo_Educativo\obj\Debug\Jogo_Educativo.Principal.resources
+M:\KINGSMAN\PPII\Matemágika\Jogo_Educativo\obj\Debug\Jogo_Educativo.Properties.Resources.resources
+M:\KINGSMAN\PPII\Matemágika\Jogo_Educativo\obj\Debug\Jogo_Educativo.Splash.resources
+M:\KINGSMAN\PPII\Matemágika\Jogo_Educativo\obj\Debug\Jogo_Educativo.csproj.GenerateResource.Cache
+M:\KINGSMAN\PPII\Matemágika\Jogo_Educativo\obj\Debug\Jogo_Educativo.csproj.CoreCompileInputs.cache
+M:\KINGSMAN\PPII\Matemágika\Jogo_Educativo\obj\Debug\Jogo_Educativo.exe
+M:\KINGSMAN\PPII\Matemágika\Jogo_Educativo\obj\Debug\Jogo_Educativo.pdb
+Z:\KINGSMAN\PPII\Matemágika - Cópia (2)\Jogo_Educativo\bin\Debug\Jogo_Educativo.exe.config
+Z:\KINGSMAN\PPII\Matemágika - Cópia (2)\Jogo_Educativo\bin\Debug\Jogo_Educativo.exe
+Z:\KINGSMAN\PPII\Matemágika - Cópia (2)\Jogo_Educativo\bin\Debug\Jogo_Educativo.pdb
+Z:\KINGSMAN\PPII\Matemágika - Cópia (2)\Jogo_Educativo\obj\Debug\Jogo_Educativo.csprojResolveAssemblyReference.cache
+Z:\KINGSMAN\PPII\Matemágika - Cópia (2)\Jogo_Educativo\obj\Debug\Jogo_Educativo.Principal.resources
+Z:\KINGSMAN\PPII\Matemágika - Cópia (2)\Jogo_Educativo\obj\Debug\Jogo_Educativo.Properties.Resources.resources
+Z:\KINGSMAN\PPII\Matemágika - Cópia (2)\Jogo_Educativo\obj\Debug\Jogo_Educativo.Splash.resources
+Z:\KINGSMAN\PPII\Matemágika - Cópia (2)\Jogo_Educativo\obj\Debug\Jogo_Educativo.csproj.GenerateResource.Cache
+Z:\KINGSMAN\PPII\Matemágika - Cópia (2)\Jogo_Educativo\obj\Debug\Jogo_Educativo.csproj.CoreCompileInputs.cache
+Z:\KINGSMAN\PPII\Matemágika - Cópia (2)\Jogo_Educativo\obj\Debug\Jogo_Educativo.exe
+Z:\KINGSMAN\PPII\Matemágika - Cópia (2)\Jogo_Educativo\obj\Debug\Jogo_Educativo.pdb
+Z:\KINGSMAN\PPII\Matemágika_maisNovo - Cópia\Jogo_Educativo\bin\Debug\Jogo_Educativo.exe.config
+Z:\KINGSMAN\PPII\Matemágika_maisNovo - Cópia\Jogo_Educativo\bin\Debug\Jogo_Educativo.exe
+Z:\KINGSMAN\PPII\Matemágika_maisNovo - Cópia\Jogo_Educativo\bin\Debug\Jogo_Educativo.pdb
+Z:\KINGSMAN\PPII\Matemágika_maisNovo - Cópia\Jogo_Educativo\obj\Debug\Jogo_Educativo.csprojResolveAssemblyReference.cache
+Z:\KINGSMAN\PPII\Matemágika_maisNovo - Cópia\Jogo_Educativo\obj\Debug\Jogo_Educativo.Principal.resources
+Z:\KINGSMAN\PPII\Matemágika_maisNovo - Cópia\Jogo_Educativo\obj\Debug\Jogo_Educativo.Properties.Resources.resources
+Z:\KINGSMAN\PPII\Matemágika_maisNovo - Cópia\Jogo_Educativo\obj\Debug\Jogo_Educativo.Splash.resources
+Z:\KINGSMAN\PPII\Matemágika_maisNovo - Cópia\Jogo_Educativo\obj\Debug\Jogo_Educativo.csproj.GenerateResource.Cache
+Z:\KINGSMAN\PPII\Matemágika_maisNovo - Cópia\Jogo_Educativo\obj\Debug\Jogo_Educativo.csproj.CoreCompileInputs.cache
+Z:\KINGSMAN\PPII\Matemágika_maisNovo - Cópia\Jogo_Educativo\obj\Debug\Jogo_Educativo.exe
+Z:\KINGSMAN\PPII\Matemágika_maisNovo - Cópia\Jogo_Educativo\obj\Debug\Jogo_Educativo.pdb
+Z:\KINGSMAN\PPII\Matemágika - Cópia (2) - Cópia\Jogo_Educativo\bin\Debug\Jogo_Educativo.exe.config
+Z:\KINGSMAN\PPII\Matemágika - Cópia (2) - Cópia\Jogo_Educativo\bin\Debug\Jogo_Educativo.exe
+Z:\KINGSMAN\PPII\Matemágika - Cópia (2) - Cópia\Jogo_Educativo\bin\Debug\Jogo_Educativo.pdb
+Z:\KINGSMAN\PPII\Matemágika - Cópia (2) - Cópia\Jogo_Educativo\obj\Debug\Jogo_Educativo.csprojResolveAssemblyReference.cache
+Z:\KINGSMAN\PPII\Matemágika - Cópia (2) - Cópia\Jogo_Educativo\obj\Debug\Jogo_Educativo.Principal.resources
+Z:\KINGSMAN\PPII\Matemágika - Cópia (2) - Cópia\Jogo_Educativo\obj\Debug\Jogo_Educativo.Properties.Resources.resources
+Z:\KINGSMAN\PPII\Matemágika - Cópia (2) - Cópia\Jogo_Educativo\obj\Debug\Jogo_Educativo.Splash.resources
+Z:\KINGSMAN\PPII\Matemágika - Cópia (2) - Cópia\Jogo_Educativo\obj\Debug\Jogo_Educativo.csproj.GenerateResource.Cache
+Z:\KINGSMAN\PPII\Matemágika - Cópia (2) - Cópia\Jogo_Educativo\obj\Debug\Jogo_Educativo.csproj.CoreCompileInputs.cache
+Z:\KINGSMAN\PPII\Matemágika - Cópia (2) - Cópia\Jogo_Educativo\obj\Debug\Jogo_Educativo.exe
+Z:\KINGSMAN\PPII\Matemágika - Cópia (2) - Cópia\Jogo_Educativo\obj\Debug\Jogo_Educativo.pdb
+Z:\KINGSMAN\PPII\Matemágika_ULTIMATE - Copia\Jogo_Educativo\bin\Debug\Jogo_Educativo.exe.config
+Z:\KINGSMAN\PPII\Matemágika_ULTIMATE - Copia\Jogo_Educativo\bin\Debug\Jogo_Educativo.exe
+Z:\KINGSMAN\PPII\Matemágika_ULTIMATE - Copia\Jogo_Educativo\bin\Debug\Jogo_Educativo.pdb
+Z:\KINGSMAN\PPII\Matemágika_ULTIMATE - Copia\Jogo_Educativo\obj\Debug\Jogo_Educativo.csprojResolveAssemblyReference.cache
+Z:\KINGSMAN\PPII\Matemágika_ULTIMATE - Copia\Jogo_Educativo\obj\Debug\Jogo_Educativo.Principal.resources
+Z:\KINGSMAN\PPII\Matemágika_ULTIMATE - Copia\Jogo_Educativo\obj\Debug\Jogo_Educativo.Properties.Resources.resources
+Z:\KINGSMAN\PPII\Matemágika_ULTIMATE - Copia\Jogo_Educativo\obj\Debug\Jogo_Educativo.Splash.resources
+Z:\KINGSMAN\PPII\Matemágika_ULTIMATE - Copia\Jogo_Educativo\obj\Debug\Jogo_Educativo.csproj.GenerateResource.Cache
+Z:\KINGSMAN\PPII\Matemágika_ULTIMATE - Copia\Jogo_Educativo\obj\Debug\Jogo_Educativo.csproj.CoreCompileInputs.cache
+Z:\KINGSMAN\PPII\Matemágika_ULTIMATE - Copia\Jogo_Educativo\obj\Debug\Jogo_Educativo.exe
+Z:\KINGSMAN\PPII\Matemágika_ULTIMATE - Copia\Jogo_Educativo\obj\Debug\Jogo_Educativo.pdb
+F:\MATEMÁGIKA\Matemágika_ULTIMATE - Copia\Jogo_Educativo\obj\Debug\Jogo_Educativo.csprojResolveAssemblyReference.cache
+F:\MATEMÁGIKA\Matemágika_ULTIMATE - Copia\Jogo_Educativo\obj\Debug\Jogo_Educativo.Principal.resources
+F:\MATEMÁGIKA\Matemágika_ULTIMATE - Copia\Jogo_Educativo\obj\Debug\Jogo_Educativo.Properties.Resources.resources
+F:\MATEMÁGIKA\Matemágika_ULTIMATE - Copia\Jogo_Educativo\obj\Debug\Jogo_Educativo.Splash.resources
+F:\MATEMÁGIKA\Matemágika_ULTIMATE - Copia\Jogo_Educativo\obj\Debug\Jogo_Educativo.csproj.GenerateResource.Cache
+F:\MATEMÁGIKA\Matemágika_ULTIMATE - Copia\Jogo_Educativo\obj\Debug\Jogo_Educativo.csproj.CoreCompileInputs.cache
+F:\MATEMÁGIKA\Matemágika_ULTIMATE - Copia\Jogo_Educativo\obj\Debug\Jogo_Educativo.exe
+F:\MATEMÁGIKA\Matemágika_ULTIMATE - Copia\Jogo_Educativo\obj\Debug\Jogo_Educativo.pdb
+E:\MATEMÁGIKA\Matemágika_ULTIMATE - Copia\Jogo_Educativo\bin\Debug\Jogo_Educativo.exe.config
+E:\MATEMÁGIKA\Matemágika_ULTIMATE - Copia\Jogo_Educativo\bin\Debug\Jogo_Educativo.exe
+E:\MATEMÁGIKA\Matemágika_ULTIMATE - Copia\Jogo_Educativo\bin\Debug\Jogo_Educativo.pdb
+E:\MATEMÁGIKA\Matemágika_ULTIMATE - Copia\Jogo_Educativo\obj\Debug\Jogo_Educativo.csprojResolveAssemblyReference.cache
+E:\MATEMÁGIKA\Matemágika_ULTIMATE - Copia\Jogo_Educativo\obj\Debug\Jogo_Educativo.Principal.resources
+E:\MATEMÁGIKA\Matemágika_ULTIMATE - Copia\Jogo_Educativo\obj\Debug\Jogo_Educativo.Properties.Resources.resources
+E:\MATEMÁGIKA\Matemágika_ULTIMATE - Copia\Jogo_Educativo\obj\Debug\Jogo_Educativo.Splash.resources
+E:\MATEMÁGIKA\Matemágika_ULTIMATE - Copia\Jogo_Educativo\obj\Debug\Jogo_Educativo.csproj.GenerateResource.Cache
+E:\MATEMÁGIKA\Matemágika_ULTIMATE - Copia\Jogo_Educativo\obj\Debug\Jogo_Educativo.csproj.CoreCompileInputs.cache
+E:\MATEMÁGIKA\Matemágika_ULTIMATE - Copia\Jogo_Educativo\obj\Debug\Jogo_Educativo.exe
+E:\MATEMÁGIKA\Matemágika_ULTIMATE - Copia\Jogo_Educativo\obj\Debug\Jogo_Educativo.pdb
+Z:\KINGSMAN\PPII\Matemágika_ULTIMATE - Cópia\Jogo_Educativo\bin\Debug\Jogo_Educativo.exe.config
+Z:\KINGSMAN\PPII\Matemágika_ULTIMATE - Cópia\Jogo_Educativo\bin\Debug\Jogo_Educativo.exe
+Z:\KINGSMAN\PPII\Matemágika_ULTIMATE - Cópia\Jogo_Educativo\bin\Debug\Jogo_Educativo.pdb
+Z:\KINGSMAN\PPII\Matemágika_ULTIMATE - Cópia\Jogo_Educativo\obj\Debug\Jogo_Educativo.csprojResolveAssemblyReference.cache
+Z:\KINGSMAN\PPII\Matemágika_ULTIMATE - Cópia\Jogo_Educativo\obj\Debug\Jogo_Educativo.Principal.resources
+Z:\KINGSMAN\PPII\Matemágika_ULTIMATE - Cópia\Jogo_Educativo\obj\Debug\Jogo_Educativo.Properties.Resources.resources
+Z:\KINGSMAN\PPII\Matemágika_ULTIMATE - Cópia\Jogo_Educativo\obj\Debug\Jogo_Educativo.Splash.resources
+Z:\KINGSMAN\PPII\Matemágika_ULTIMATE - Cópia\Jogo_Educativo\obj\Debug\Jogo_Educativo.csproj.GenerateResource.Cache
+Z:\KINGSMAN\PPII\Matemágika_ULTIMATE - Cópia\Jogo_Educativo\obj\Debug\Jogo_Educativo.csproj.CoreCompileInputs.cache
+Z:\KINGSMAN\PPII\Matemágika_ULTIMATE - Cópia\Jogo_Educativo\obj\Debug\Jogo_Educativo.exe
+Z:\KINGSMAN\PPII\Matemágika_ULTIMATE - Cópia\Jogo_Educativo\obj\Debug\Jogo_Educativo.pdb
+Z:\KINGSMAN\PPII\Matemágika_ULTIMATE - Cópia - Cópia\Jogo_Educativo\bin\Debug\Jogo_Educativo.exe.config
+Z:\KINGSMAN\PPII\Matemágika_ULTIMATE - Cópia - Cópia\Jogo_Educativo\bin\Debug\Jogo_Educativo.exe
+Z:\KINGSMAN\PPII\Matemágika_ULTIMATE - Cópia - Cópia\Jogo_Educativo\bin\Debug\Jogo_Educativo.pdb
+Z:\KINGSMAN\PPII\Matemágika_ULTIMATE - Cópia - Cópia\Jogo_Educativo\obj\Debug\Jogo_Educativo.csprojResolveAssemblyReference.cache
+Z:\KINGSMAN\PPII\Matemágika_ULTIMATE - Cópia - Cópia\Jogo_Educativo\obj\Debug\Jogo_Educativo.Principal.resources
+Z:\KINGSMAN\PPII\Matemágika_ULTIMATE - Cópia - Cópia\Jogo_Educativo\obj\Debug\Jogo_Educativo.Properties.Resources.resources
+Z:\KINGSMAN\PPII\Matemágika_ULTIMATE - Cópia - Cópia\Jogo_Educativo\obj\Debug\Jogo_Educativo.Splash.resources
+Z:\KINGSMAN\PPII\Matemágika_ULTIMATE - Cópia - Cópia\Jogo_Educativo\obj\Debug\Jogo_Educativo.csproj.GenerateResource.Cache
+Z:\KINGSMAN\PPII\Matemágika_ULTIMATE - Cópia - Cópia\Jogo_Educativo\obj\Debug\Jogo_Educativo.csproj.CoreCompileInputs.cache
+Z:\KINGSMAN\PPII\Matemágika_ULTIMATE - Cópia - Cópia\Jogo_Educativo\obj\Debug\Jogo_Educativo.exe
+Z:\KINGSMAN\PPII\Matemágika_ULTIMATE - Cópia - Cópia\Jogo_Educativo\obj\Debug\Jogo_Educativo.pdb
+E:\Matemágika_ULTIMATE - Cópia - Cópia\Jogo_Educativo\obj\Debug\Jogo_Educativo.csprojResolveAssemblyReference.cache
+E:\Matemágika_ULTIMATE - Cópia - Cópia\Jogo_Educativo\obj\Debug\Jogo_Educativo.Principal.resources
+E:\Matemágika_ULTIMATE - Cópia - Cópia\Jogo_Educativo\obj\Debug\Jogo_Educativo.Properties.Resources.resources
+E:\Matemágika_ULTIMATE - Cópia - Cópia\Jogo_Educativo\obj\Debug\Jogo_Educativo.Splash.resources
+E:\Matemágika_ULTIMATE - Cópia - Cópia\Jogo_Educativo\obj\Debug\Jogo_Educativo.csproj.GenerateResource.Cache
+E:\Matemágika_ULTIMATE - Cópia - Cópia\Jogo_Educativo\obj\Debug\Jogo_Educativo.csproj.CoreCompileInputs.cache
+E:\Matemágika_ULTIMATE - Cópia - Cópia\Jogo_Educativo\obj\Debug\Jogo_Educativo.exe
+E:\Matemágika_ULTIMATE - Cópia - Cópia\Jogo_Educativo\obj\Debug\Jogo_Educativo.pdb
+E:\Matemágika_ULTIMATE - Cópia - Cópia\Jogo_Educativo\bin\Debug\Jogo_Educativo.exe.config
+E:\Matemágika_ULTIMATE - Cópia - Cópia\Jogo_Educativo\bin\Debug\Jogo_Educativo.exe
+E:\Matemágika_ULTIMATE - Cópia - Cópia\Jogo_Educativo\bin\Debug\Jogo_Educativo.pdb
+F:\Matemágika_ULTIMATE - Cópia - Cópia\Jogo_Educativo\bin\Debug\Jogo_Educativo.exe.config
+F:\Matemágika_ULTIMATE - Cópia - Cópia\Jogo_Educativo\bin\Debug\Jogo_Educativo.exe
+F:\Matemágika_ULTIMATE - Cópia - Cópia\Jogo_Educativo\bin\Debug\Jogo_Educativo.pdb
+F:\Matemágika_ULTIMATE - Cópia - Cópia\Jogo_Educativo\obj\Debug\Jogo_Educativo.csprojResolveAssemblyReference.cache
+F:\Matemágika_ULTIMATE - Cópia - Cópia\Jogo_Educativo\obj\Debug\Jogo_Educativo.Principal.resources
+F:\Matemágika_ULTIMATE - Cópia - Cópia\Jogo_Educativo\obj\Debug\Jogo_Educativo.Properties.Resources.resources
+F:\Matemágika_ULTIMATE - Cópia - Cópia\Jogo_Educativo\obj\Debug\Jogo_Educativo.Splash.resources
+F:\Matemágika_ULTIMATE - Cópia - Cópia\Jogo_Educativo\obj\Debug\Jogo_Educativo.csproj.GenerateResource.Cache
+F:\Matemágika_ULTIMATE - Cópia - Cópia\Jogo_Educativo\obj\Debug\Jogo_Educativo.csproj.CoreCompileInputs.cache
+F:\Matemágika_ULTIMATE - Cópia - Cópia\Jogo_Educativo\obj\Debug\Jogo_Educativo.exe
+F:\Matemágika_ULTIMATE - Cópia - Cópia\Jogo_Educativo\obj\Debug\Jogo_Educativo.pdb
+F:\MATEMÁGIKA - Cópia\Jogo_Educativo\obj\Debug\Jogo_Educativo.csprojResolveAssemblyReference.cache
+F:\MATEMÁGIKA - Cópia\Jogo_Educativo\obj\Debug\Jogo_Educativo.Principal.resources
+F:\MATEMÁGIKA - Cópia\Jogo_Educativo\obj\Debug\Jogo_Educativo.Properties.Resources.resources
+F:\MATEMÁGIKA - Cópia\Jogo_Educativo\obj\Debug\Jogo_Educativo.Splash.resources
+F:\MATEMÁGIKA - Cópia\Jogo_Educativo\obj\Debug\Jogo_Educativo.csproj.GenerateResource.Cache
+F:\MATEMÁGIKA - Cópia\Jogo_Educativo\obj\Debug\Jogo_Educativo.csproj.CoreCompileInputs.cache
+F:\MATEMÁGIKA - Cópia\Jogo_Educativo\obj\Debug\Jogo_Educativo.exe
+F:\MATEMÁGIKA - Cópia\Jogo_Educativo\obj\Debug\Jogo_Educativo.pdb
+F:\MATEMÁGIKA - Cópia\Jogo_Educativo\bin\Debug\Jogo_Educativo.exe.config
+F:\MATEMÁGIKA - Cópia\Jogo_Educativo\bin\Debug\Jogo_Educativo.exe
+F:\MATEMÁGIKA - Cópia\Jogo_Educativo\bin\Debug\Jogo_Educativo.pdb
+G:\MATEMÁGIKAn\Jogo_Educativo\bin\Debug\Jogo_Educativo.exe.config
+G:\MATEMÁGIKAn\Jogo_Educativo\bin\Debug\Jogo_Educativo.exe
+G:\MATEMÁGIKAn\Jogo_Educativo\bin\Debug\Jogo_Educativo.pdb
+G:\MATEMÁGIKAn\Jogo_Educativo\obj\Debug\Jogo_Educativo.csprojResolveAssemblyReference.cache
+G:\MATEMÁGIKAn\Jogo_Educativo\obj\Debug\Jogo_Educativo.Principal.resources
+G:\MATEMÁGIKAn\Jogo_Educativo\obj\Debug\Jogo_Educativo.Properties.Resources.resources
+G:\MATEMÁGIKAn\Jogo_Educativo\obj\Debug\Jogo_Educativo.Splash.resources
+G:\MATEMÁGIKAn\Jogo_Educativo\obj\Debug\Jogo_Educativo.csproj.GenerateResource.Cache
+G:\MATEMÁGIKAn\Jogo_Educativo\obj\Debug\Jogo_Educativo.csproj.CoreCompileInputs.cache
+G:\MATEMÁGIKAn\Jogo_Educativo\obj\Debug\Jogo_Educativo.exe
+G:\MATEMÁGIKAn\Jogo_Educativo\obj\Debug\Jogo_Educativo.pdb
+E:\MATEMÁGIKAn\Jogo_Educativo\bin\Debug\Jogo_Educativo.exe.config
+E:\MATEMÁGIKAn\Jogo_Educativo\bin\Debug\Jogo_Educativo.exe
+E:\MATEMÁGIKAn\Jogo_Educativo\bin\Debug\Jogo_Educativo.pdb
+E:\MATEMÁGIKAn\Jogo_Educativo\obj\Debug\Jogo_Educativo.csprojResolveAssemblyReference.cache
+E:\MATEMÁGIKAn\Jogo_Educativo\obj\Debug\Jogo_Educativo.Principal.resources
+E:\MATEMÁGIKAn\Jogo_Educativo\obj\Debug\Jogo_Educativo.Properties.Resources.resources
+E:\MATEMÁGIKAn\Jogo_Educativo\obj\Debug\Jogo_Educativo.Splash.resources
+E:\MATEMÁGIKAn\Jogo_Educativo\obj\Debug\Jogo_Educativo.csproj.GenerateResource.Cache
+E:\MATEMÁGIKAn\Jogo_Educativo\obj\Debug\Jogo_Educativo.csproj.CoreCompileInputs.cache
+E:\MATEMÁGIKAn\Jogo_Educativo\obj\Debug\Jogo_Educativo.exe
+E:\MATEMÁGIKAn\Jogo_Educativo\obj\Debug\Jogo_Educativo.pdb
+F:\MATEMÁGIKAn\Jogo_Educativo\bin\Debug\Jogo_Educativo.exe.config
+F:\MATEMÁGIKAn\Jogo_Educativo\bin\Debug\Jogo_Educativo.exe
+F:\MATEMÁGIKAn\Jogo_Educativo\bin\Debug\Jogo_Educativo.pdb
+F:\MATEMÁGIKAn\Jogo_Educativo\obj\Debug\Jogo_Educativo.csprojResolveAssemblyReference.cache
+F:\MATEMÁGIKAn\Jogo_Educativo\obj\Debug\Jogo_Educativo.Principal.resources
+F:\MATEMÁGIKAn\Jogo_Educativo\obj\Debug\Jogo_Educativo.Properties.Resources.resources
+F:\MATEMÁGIKAn\Jogo_Educativo\obj\Debug\Jogo_Educativo.Splash.resources
+F:\MATEMÁGIKAn\Jogo_Educativo\obj\Debug\Jogo_Educativo.csproj.GenerateResource.Cache
+F:\MATEMÁGIKAn\Jogo_Educativo\obj\Debug\Jogo_Educativo.csproj.CoreCompileInputs.cache
+F:\MATEMÁGIKAn\Jogo_Educativo\obj\Debug\Jogo_Educativo.exe
+F:\MATEMÁGIKAn\Jogo_Educativo\obj\Debug\Jogo_Educativo.pdb
+F:\COTUCA\Tecnico\PPII\Código\Código MATEMÁGIKA\MATEMÁGIKA - Versão Final - Cópia\Jogo_Educativo\bin\Debug\Jogo_Educativo.exe.config
+F:\COTUCA\Tecnico\PPII\Código\Código MATEMÁGIKA\MATEMÁGIKA - Versão Final - Cópia\Jogo_Educativo\bin\Debug\Jogo_Educativo.exe
+F:\COTUCA\Tecnico\PPII\Código\Código MATEMÁGIKA\MATEMÁGIKA - Versão Final - Cópia\Jogo_Educativo\bin\Debug\Jogo_Educativo.pdb
+F:\COTUCA\Tecnico\PPII\Código\Código MATEMÁGIKA\MATEMÁGIKA - Versão Final - Cópia\Jogo_Educativo\obj\Debug\Jogo_Educativo.csprojResolveAssemblyReference.cache
+F:\COTUCA\Tecnico\PPII\Código\Código MATEMÁGIKA\MATEMÁGIKA - Versão Final - Cópia\Jogo_Educativo\obj\Debug\Jogo_Educativo.Principal.resources
+F:\COTUCA\Tecnico\PPII\Código\Código MATEMÁGIKA\MATEMÁGIKA - Versão Final - Cópia\Jogo_Educativo\obj\Debug\Jogo_Educativo.Properties.Resources.resources
+F:\COTUCA\Tecnico\PPII\Código\Código MATEMÁGIKA\MATEMÁGIKA - Versão Final - Cópia\Jogo_Educativo\obj\Debug\Jogo_Educativo.Splash.resources
+F:\COTUCA\Tecnico\PPII\Código\Código MATEMÁGIKA\MATEMÁGIKA - Versão Final - Cópia\Jogo_Educativo\obj\Debug\Jogo_Educativo.csproj.GenerateResource.Cache
+F:\COTUCA\Tecnico\PPII\Código\Código MATEMÁGIKA\MATEMÁGIKA - Versão Final - Cópia\Jogo_Educativo\obj\Debug\Jogo_Educativo.csproj.CoreCompileInputs.cache
+F:\COTUCA\Tecnico\PPII\Código\Código MATEMÁGIKA\MATEMÁGIKA - Versão Final - Cópia\Jogo_Educativo\obj\Debug\Jogo_Educativo.exe
+F:\COTUCA\Tecnico\PPII\Código\Código MATEMÁGIKA\MATEMÁGIKA - Versão Final - Cópia\Jogo_Educativo\obj\Debug\Jogo_Educativo.pdb
+D:\COTUCA\Tecnico\PPII\Código\Código MATEMÁGIKA\MATEMÁGIKA - Versão Final - Cópia - Copia\Jogo_Educativo\bin\Debug\Jogo_Educativo.exe.config
+D:\COTUCA\Tecnico\PPII\Código\Código MATEMÁGIKA\MATEMÁGIKA - Versão Final - Cópia - Copia\Jogo_Educativo\bin\Debug\Jogo_Educativo.exe
+D:\COTUCA\Tecnico\PPII\Código\Código MATEMÁGIKA\MATEMÁGIKA - Versão Final - Cópia - Copia\Jogo_Educativo\bin\Debug\Jogo_Educativo.pdb
+D:\COTUCA\Tecnico\PPII\Código\Código MATEMÁGIKA\MATEMÁGIKA - Versão Final - Cópia - Copia\Jogo_Educativo\obj\Debug\Jogo_Educativo.csprojResolveAssemblyReference.cache
+D:\COTUCA\Tecnico\PPII\Código\Código MATEMÁGIKA\MATEMÁGIKA - Versão Final - Cópia - Copia\Jogo_Educativo\obj\Debug\Jogo_Educativo.Principal.resources
+D:\COTUCA\Tecnico\PPII\Código\Código MATEMÁGIKA\MATEMÁGIKA - Versão Final - Cópia - Copia\Jogo_Educativo\obj\Debug\Jogo_Educativo.Properties.Resources.resources
+D:\COTUCA\Tecnico\PPII\Código\Código MATEMÁGIKA\MATEMÁGIKA - Versão Final - Cópia - Copia\Jogo_Educativo\obj\Debug\Jogo_Educativo.Splash.resources
+D:\COTUCA\Tecnico\PPII\Código\Código MATEMÁGIKA\MATEMÁGIKA - Versão Final - Cópia - Copia\Jogo_Educativo\obj\Debug\Jogo_Educativo.csproj.GenerateResource.Cache
+D:\COTUCA\Tecnico\PPII\Código\Código MATEMÁGIKA\MATEMÁGIKA - Versão Final - Cópia - Copia\Jogo_Educativo\obj\Debug\Jogo_Educativo.csproj.CoreCompileInputs.cache
+D:\COTUCA\Tecnico\PPII\Código\Código MATEMÁGIKA\MATEMÁGIKA - Versão Final - Cópia - Copia\Jogo_Educativo\obj\Debug\Jogo_Educativo.exe
+D:\COTUCA\Tecnico\PPII\Código\Código MATEMÁGIKA\MATEMÁGIKA - Versão Final - Cópia - Copia\Jogo_Educativo\obj\Debug\Jogo_Educativo.pdb
